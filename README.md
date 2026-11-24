@@ -1,4 +1,10 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/katotaihei/makefun-news-image-20261124-v2/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/katotaihei/makefun-news-image-20261124-v2/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 # news-image-20261124 — The World Today
+
+An entry for make.fun's bounty [Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124) ($100 in USDC).
 
 A program that draws Tuesday 24 November 2026's world news as a
 newspaper front page, in one 1024x1024 PNG.
